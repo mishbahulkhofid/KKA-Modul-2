@@ -1,0 +1,66 @@
+id_transaksi,tanggal,nama_produk,kategori,jumlah_terjual,harga_satuan,nama_kasir,metode_pembayaran,total_pendapatan
+TRX0001,2026-08-03,Mie Ayam,Makanan,1,10000,Bu Wati,QRIS,10000
+TRX0002,2026-08-03,Jus Alpukat,Minuman,2,8000,Pak Agus,Tunai,16000
+TRX0003,2026-08-03,Nasi Goreng,Makanan,9,12000,Pak Joko,Transfer,108000
+TRX0004,2026-08-03,Nasi Goreng,Makanan,13,12000,Pak Joko,QRIS,156000
+TRX0005,2026-08-03,Gorengan,Makanan,2,2000,Bu Sri,QRIS,4000
+TRX0006,2026-08-03,Nasi Goreng,Makanan,12,12000,Pak Agus,Transfer,144000
+TRX0007,2026-08-03,Kerupuk,Snack,10,2000,Bu Wati,Transfer,20000
+TRX0008,2026-08-04,Mie Ayam,Makanan,14,10000,Pak Joko,Tunai,140000
+TRX0009,2026-08-04,Bakso,Makanan,6,11000,Bu Wati,QRIS,66000
+TRX0010,2026-08-04,Keripik Singkong,Snack,12,3000,Pak Joko,QRIS,36000
+TRX0011,2026-08-04,Jus Alpukat,Minuman,4,8000,Bu Wati,Tunai,32000
+TRX0012,2026-08-04,Mie Ayam,Makanan,4,10000,Bu Wati,QRIS,40000
+TRX0013,2026-08-04,Bakso,Makanan,5,11000,Pak Joko,QRIS,55000
+TRX0014,2026-08-05,Bakso,Makanan,9,11000,Pak Agus,Tunai,99000
+TRX0015,2026-08-05,Kerupuk,Snack,7,2000,Bu Sri,QRIS,14000
+TRX0016,2026-08-05,Nasi Goreng,Makanan,11,12000,Bu Sri,Transfer,132000
+TRX0017,2026-08-05,Es Jeruk,Minuman,1,4000,Bu Wati,Transfer,4000
+TRX0018,2026-08-05,Kerupuk,Snack,9,2000,Tidak Diketahui,QRIS,18000
+TRX0019,2026-08-06,Nasi Goreng,Makanan,10,12000,Bu Wati,QRIS,120000
+TRX0020,2026-08-06,Roti Bakar,Makanan,4,7000,Tidak Diketahui,QRIS,28000
+TRX0021,2026-08-06,Jus Alpukat,Minuman,13,8000,Pak Joko,QRIS,104000
+TRX0022,2026-08-06,Es Teh,Minuman,4,3000,Pak Joko,Tunai,12000
+TRX0023,2026-08-06,Mie Ayam,Makanan,4,10000,Pak Joko,Tunai,40000
+TRX0024,2026-08-06,Nasi Uduk,Makanan,1,8000,Bu Sri,Tunai,8000
+TRX0025,2026-08-06,Mie Ayam,Makanan,9,10000,Pak Joko,Tunai,90000
+TRX0026,2026-08-07,Teh Botol,Minuman,8,5000,Pak Joko,QRIS,40000
+TRX0027,2026-08-07,Gorengan,Makanan,7,2000,Pak Agus,QRIS,14000
+TRX0028,2026-08-07,Mie Ayam,Makanan,4,10000,Pak Joko,QRIS,40000
+TRX0029,2026-08-07,Nasi Uduk,Makanan,14,8000,Bu Sri,QRIS,112000
+TRX0030,2026-08-07,Nasi Goreng,Makanan,2,12000,Tidak Diketahui,QRIS,24000
+TRX0031,2026-08-07,Nasi Goreng,Makanan,10,12000,Pak Agus,Tunai,120000
+TRX0032,2026-08-07,Roti Bakar,Makanan,7,7000,Pak Agus,QRIS,49000
+TRX0033,2026-08-10,Jus Alpukat,Minuman,1,8000,Bu Wati,Tunai,8000
+TRX0034,2026-08-10,Bakso,Makanan,1,11000,Bu Sri,QRIS,11000
+TRX0035,2026-08-10,Mie Ayam,Makanan,4,10000,Pak Joko,Transfer,40000
+TRX0036,2026-08-10,Jus Alpukat,Minuman,6,8000,Bu Wati,QRIS,48000
+TRX0037,2026-08-10,Kerupuk,Snack,8,2000,Pak Agus,Tunai,16000
+TRX0038,2026-08-10,Mie Ayam,Makanan,2,10000,Pak Joko,Transfer,20000
+TRX0039,2026-08-10,Nasi Uduk,Makanan,6,8000,Bu Wati,QRIS,48000
+TRX0040,2026-08-11,Jus Alpukat,Minuman,1,8000,Bu Wati,Tunai,8000
+TRX0041,2026-08-11,Jus Alpukat,Minuman,3,8000,Bu Wati,Tunai,24000
+TRX0042,2026-08-11,Roti Bakar,Makanan,9,7000,Pak Agus,Tunai,63000
+TRX0043,2026-08-11,Nasi Goreng,Makanan,1,12000,Bu Wati,QRIS,12000
+TRX0044,2026-08-11,Es Teh,Minuman,9,3000,Bu Sri,Tunai,27000
+TRX0045,2026-08-11,Teh Botol,Minuman,9,5000,Pak Joko,QRIS,45000
+TRX0046,2026-08-11,Nasi Goreng,Makanan,15,12000,Bu Wati,QRIS,180000
+TRX0047,2026-08-12,Teh Botol,Minuman,12,5000,Pak Joko,QRIS,60000
+TRX0048,2026-08-12,Keripik Singkong,Snack,15,3000,Bu Wati,QRIS,45000
+TRX0049,2026-08-12,Es Teh,Minuman,14,3000,Bu Sri,QRIS,42000
+TRX0050,2026-08-12,Roti Bakar,Makanan,7,7000,Pak Joko,QRIS,49000
+TRX0051,2026-08-12,Mie Ayam,Makanan,13,10000,Bu Wati,Tunai,130000
+TRX0052,2026-08-12,Roti Bakar,Makanan,3,7000,Bu Wati,Tunai,21000
+TRX0053,2026-08-13,Teh Botol,Minuman,9,5000,Bu Sri,QRIS,45000
+TRX0054,2026-08-13,Jus Alpukat,Minuman,15,8000,Pak Joko,Tunai,120000
+TRX0055,2026-08-13,Teh Botol,Minuman,6,5000,Bu Sri,Tunai,30000
+TRX0056,2026-08-13,Jus Alpukat,Minuman,3,8000,Pak Joko,QRIS,24000
+TRX0057,2026-08-13,Jus Alpukat,Minuman,14,8000,Bu Sri,Tunai,112000
+TRX0058,2026-08-13,Kerupuk,Snack,6,2000,Pak Agus,QRIS,12000
+TRX0059,2026-08-14,Bakso,Makanan,11,11000,Bu Sri,Tunai,121000
+TRX0060,2026-08-14,Kerupuk,Snack,5,2000,Pak Joko,QRIS,10000
+TRX0061,2026-08-14,Teh Botol,Minuman,14,5000,Bu Sri,QRIS,70000
+TRX0062,2026-08-14,Es Teh,Minuman,4,3000,Pak Joko,Tunai,12000
+TRX0063,2026-08-14,Keripik Singkong,Snack,9,3000,Pak Agus,Tunai,27000
+TRX0064,2026-08-14,Kerupuk,Snack,9,2000,Bu Wati,QRIS,18000
+TRX0065,2026-08-14,Es Jeruk,Minuman,8,4000,Bu Wati,QRIS,32000
